@@ -1,0 +1,6 @@
+scripts/ResultsLogger.nb binary
+scripts/bootstrap/* binary
+data binary
+data/* binary
+*.serialized filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text

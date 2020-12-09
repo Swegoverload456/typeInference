@@ -1,0 +1,8 @@
+[34mTask: newParsing-GAT1-fc2-newSim-decay-6[0m
+[34mthreads = 8[0m
+[32mMessage layer: 2 FC[0m
+[32mNN Architecture: GAT-32[0m
+[32mmaxBatchSize: 360[0m
+[32mLabel encoder: SegmentedLabelEncoder[0m
+[32mName encoder: SegmentedLabelEncoder[0m
+[32mloss model: NormalLoss[0m
